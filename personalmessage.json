@@ -1,0 +1,21 @@
+[ "message" : "
+//Hi, i guess youre interested in java web development with easy way :D .
+//Sadly we cant send pm to people in github so i couldnt reach you.
+//I was in same position as you.
+
+//I recommend you to try javalin. https://javalin.io/
+//Javalin is more actively maintained than Spark.
+
+//Also pippo is another option. Javalin is jetty embedded as you know and
+//many parts forked from spark.
+
+//Well pippo.ro is servlet based so you can use any web server you want.
+
+//Another framework
+//Jooby is servlet based and most performant framework and many server options.
+//Undertow is fastest option and Netty is also perfect as you know from vertx.
+
+//Well i recommend Javalin for enterprise case, David aka Tipsy (from Spark Contributors) is leading that project.
+
+//good luck"
+]
